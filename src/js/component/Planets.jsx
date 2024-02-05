@@ -23,7 +23,7 @@ const Planets = () => {
                 }}
               />
               <div className="card-body">
-                <h5 className="card-title text-white">
+                <h5 className="card-title text-white h-50">
                   {item.properties.name}
                 </h5>
 
