@@ -1,3 +1,36 @@
 /* 
     General Styles
 */
+body {
+  background-color: black;
+}
+
+.my-carrousel {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.cardCharacters {
+  min-width: 300px;
+  margin: 5px;
+}
+
+.button:hover {
+  box-shadow: 0 0 10px rgba(152, 130, 130, 0.5);
+}
+
+.drop {
+  width: 300px;
+  padding: 20px;
+}
+
+.btnHover {
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 35px;
+  border-radius: 5px;
+  color: black;
+  overflow: hidden;
+  transition: all 500ms ease;
+}
