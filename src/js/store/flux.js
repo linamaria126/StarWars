@@ -49,6 +49,7 @@ const getState = ({ getStore, getActions, setStore }) => {
         }
         setStore({ viewVehicles: vehicleStore }); // buscar el uso del localStorage. Guardar dentro del fetch la información de peopleStore
         localStorage.setItem("vehicles", JSON.stringify(vehicleStore));
+        console.log(viewVehicles);
       },
 
       getPlanets: async () => {

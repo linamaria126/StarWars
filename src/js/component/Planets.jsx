@@ -23,7 +23,9 @@ const Planets = () => {
                 }}
               />
               <div className="card-body">
-                <h5 className="card-title">{item.properties.name}</h5>
+                <h5 className="card-title text-white">
+                  {item.properties.name}
+                </h5>
 
                 <div className="d-flex justify-content-between align-items-center">
                   <Link
