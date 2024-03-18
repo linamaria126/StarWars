@@ -41,5 +41,5 @@ Vista Previa de 'Favoritos':
 
 ## Realizado por:
 
-Lina María Cardona Giraldo
+Lina María Cardona Giraldo<br>
 Desarrolladora web FullStack
