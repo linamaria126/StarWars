@@ -30,7 +30,7 @@ Vista Previa de 'Favoritos':
 ![image](https://github.com/linamaria126/StarWars/assets/66230572/cc67cf98-817c-42a8-bd14-355059328401)
 
 
-##Tecnologías y lenguajes empleados:
+## Tecnologías y lenguajes empleados:
 
 - HTML CSS
 - Bootstrap
