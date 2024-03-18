@@ -38,3 +38,8 @@ Vista Previa de 'Favoritos':
 - React
 - Consumo de Api con Fetch
 - almacenamiento local (localStorage)
+
+## Realizado por:
+
+Lina María Cardona Giraldo
+Desarrolladora web FullStack
