@@ -14,5 +14,19 @@ API externa: https://www.swapi.tech/documentation
 
 ## Funcionalidad 'Ver más':
 
-Cada entidad 
-Continue....
+Cada entidad contiene una breve descripción, cuya información es traída del API.
+
+Vista Previa de 'Ver mas':
+
+![image](https://github.com/linamaria126/StarWars/assets/66230572/d048b753-b991-42e1-a691-8d44f56d01ff)
+
+
+## Funcionalidad 'Favoritos':
+
+Permite seleccionar a los personajes favoritos de la Serie "Star Wars", al dar click en la opción: 💛
+
+Vista Previa de 'Favoritos':
+
+![image](https://github.com/linamaria126/StarWars/assets/66230572/cc67cf98-817c-42a8-bd14-355059328401)
+
+
